@@ -4,5 +4,6 @@ class newfile():
         ls = ["new1"]
         if "new" in ls:
             print("found")
-                    
+                
+        print("modify")
 newfile.newMoj()

@@ -6,4 +6,5 @@ class newfile():
             print("found")
                 
         print("modify")
+        print("demo")
 newfile.newMoj()
